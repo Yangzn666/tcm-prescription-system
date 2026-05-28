@@ -4,9 +4,9 @@
 
 ## 🔑 Core Features
 - **State Machine Workflow**: 8-node strict logic from prescription to delivery.
-- **Smart Inventory**: FIFO algorithm with batch tracking.
+- **Smart Inventory**: FIFO algorithm with batch tracking and expiration warnings.
 - **Data Dashboard**: Multi-dimensional statistics for operational decisions.
 
-## 🏆 Achievements
-- National 3rd Prize in Physics Experiment Competition
-- Exhibited at 2026 World Digital Education Conference (Zhejiang University)
+## 🏆 Project Highlights
+- Implemented complex business logic for medical scenarios.
+- Reduced herb waste through intelligent inventory tracking.
